@@ -1,0 +1,8 @@
+changefinder==0.3
+jupyter==1.0.0
+numpy==1.12.1
+pandas==0.20.1
+scikit-learn==0.18.1
+scipy==0.19.0
+tabpy-client==0.2
+tabpy-server==0.2
